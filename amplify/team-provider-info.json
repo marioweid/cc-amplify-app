@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ccapi-dev-105735-authRole",
+      "UnauthRoleArn": "arn:aws:iam::736244177024:role/amplify-ccapi-dev-105735-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::736244177024:role/amplify-ccapi-dev-105735-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-ccapi-dev-105735-deployment",
+      "UnauthRoleName": "amplify-ccapi-dev-105735-unauthRole",
+      "StackName": "amplify-ccapi-dev-105735",
+      "StackId": "arn:aws:cloudformation:eu-central-1:736244177024:stack/amplify-ccapi-dev-105735/9a244650-ba3e-11ec-913f-0678fe50ee74",
+      "AmplifyAppId": "d2jqjbq7ayv72p"
+    },
+    "categories": {
+      "function": {
+        "itemapi": {
+          "deploymentBucketName": "amplify-ccapi-dev-105735-deployment",
+          "s3Key": "amplify-builds/itemapi-72417566697474744c6b-build.zip"
+        }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2jqjbq7ayv72p",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

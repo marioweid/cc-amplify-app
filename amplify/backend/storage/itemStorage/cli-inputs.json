@@ -1,0 +1,10 @@
+{
+  "resourceName": "itemStorage",
+  "tableName": "items",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
